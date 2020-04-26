@@ -1,0 +1,17 @@
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.dll.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.csproj.CopyComplete
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.Migrations.InitialCreate.resources
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.csproj.GenerateResource.cache
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.csprojAssemblyReference.cache
+D:\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.dll.config
+D:\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.dll
+D:\MyBlog\MyBlogDAL\bin\Debug\MyBlogDAL.pdb
+D:\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.Migrations.InitialCreate.resources
+D:\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.csproj.GenerateResource.cache
+D:\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.csproj.CopyComplete
+D:\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.dll
+D:\MyBlog\MyBlogDAL\obj\Debug\MyBlogDAL.pdb

@@ -1,0 +1,20 @@
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\MyBlogBL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\MyBlogBL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.csprojAssemblyReference.cache
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\EntityFramework.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.dll.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.csproj.CopyComplete
+D:\MyBlog\MyBlogBL\bin\Debug\MyBlogBL.dll
+D:\MyBlog\MyBlogBL\bin\Debug\MyBlogBL.pdb
+D:\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.dll
+D:\MyBlog\MyBlogBL\bin\Debug\EntityFramework.dll
+D:\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.pdb
+D:\MyBlog\MyBlogBL\bin\Debug\MyBlogDAL.dll.config
+D:\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.csprojAssemblyReference.cache
+D:\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.csproj.CopyComplete
+D:\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.dll
+D:\MyBlog\MyBlogBL\obj\Debug\MyBlogBL.pdb

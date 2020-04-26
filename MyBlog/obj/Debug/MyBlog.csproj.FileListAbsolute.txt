@@ -1,0 +1,168 @@
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlog.dll.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlog.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlog.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csc.exe
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csc.exe.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csc.rsp
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csi.exe
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csi.exe.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\csi.rsp
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.AppContext.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Collections.Immutable.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Console.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Globalization.Calendars.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.IO.Compression.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.IO.FileSystem.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Net.Sockets.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Reflection.Metadata.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.ValueTuple.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Xml.XPath.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\vbc.exe
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\vbc.exe.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\vbc.rsp
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\VBCSCompiler.exe
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\roslyn\VBCSCompiler.exe.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Razor.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Net.Http.Formatting.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Http.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.Web.Http.WebHost.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\obj\Debug\MyBlog.csprojAssemblyReference.cache
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlogBL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.ValueTuple.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlogDAL.dll
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlogBL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\AutoMapper.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\AutoMapper.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\EntityFramework.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.Mvc.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.Web.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.Web.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.WebApi.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.WebApi.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\LightInject.WebApi.dll.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\System.ValueTuple.xml
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlogDAL.pdb
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\MyBlogDAL.dll.config
+D:\A-LEVEL\МОДУЛЬ 5 Home Work\MyBlog\MyBlog\bin\RestSharp.xml
+D:\MyBlog\MyBlog\bin\MyBlog.dll.config
+D:\MyBlog\MyBlog\bin\MyBlog.dll
+D:\MyBlog\MyBlog\bin\MyBlog.pdb
+D:\MyBlog\MyBlog\bin\roslyn\csc.exe
+D:\MyBlog\MyBlog\bin\roslyn\csc.exe.config
+D:\MyBlog\MyBlog\bin\roslyn\csc.rsp
+D:\MyBlog\MyBlog\bin\roslyn\csi.exe
+D:\MyBlog\MyBlog\bin\roslyn\csi.exe.config
+D:\MyBlog\MyBlog\bin\roslyn\csi.rsp
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyBlog\MyBlog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.AppContext.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Collections.Immutable.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Console.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Globalization.Calendars.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.IO.Compression.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.IO.FileSystem.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Net.Sockets.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.ValueTuple.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Xml.XPath.dll
+D:\MyBlog\MyBlog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MyBlog\MyBlog\bin\roslyn\vbc.exe
+D:\MyBlog\MyBlog\bin\roslyn\vbc.exe.config
+D:\MyBlog\MyBlog\bin\roslyn\vbc.rsp
+D:\MyBlog\MyBlog\bin\roslyn\VBCSCompiler.exe
+D:\MyBlog\MyBlog\bin\roslyn\VBCSCompiler.exe.config
+D:\MyBlog\MyBlog\bin\MyBlogBL.dll
+D:\MyBlog\MyBlog\bin\MyBlogDAL.dll
+D:\MyBlog\MyBlog\bin\MyBlogBL.pdb
+D:\MyBlog\MyBlog\bin\MyBlogDAL.pdb
+D:\MyBlog\MyBlog\bin\MyBlogDAL.dll.config
+D:\MyBlog\MyBlog\obj\Debug\MyBlog.csprojAssemblyReference.cache
+D:\MyBlog\MyBlog\obj\Debug\MyBlog.csproj.CopyComplete
+D:\MyBlog\MyBlog\obj\Debug\MyBlog.dll
+D:\MyBlog\MyBlog\obj\Debug\MyBlog.pdb
+D:\MyBlog\MyBlog\bin\AutoMapper.pdb
+D:\MyBlog\MyBlog\bin\AutoMapper.xml
+D:\MyBlog\MyBlog\bin\EntityFramework.xml
+D:\MyBlog\MyBlog\bin\EntityFramework.SqlServer.xml
+D:\MyBlog\MyBlog\bin\LightInject.pdb
+D:\MyBlog\MyBlog\bin\LightInject.xml
+D:\MyBlog\MyBlog\bin\LightInject.Mvc.pdb
+D:\MyBlog\MyBlog\bin\LightInject.Web.pdb
+D:\MyBlog\MyBlog\bin\LightInject.Web.xml
+D:\MyBlog\MyBlog\bin\LightInject.WebApi.pdb
+D:\MyBlog\MyBlog\bin\LightInject.WebApi.xml
+D:\MyBlog\MyBlog\bin\LightInject.WebApi.dll.config
+D:\MyBlog\MyBlog\bin\RestSharp.xml
+D:\MyBlog\MyBlog\bin\System.Net.Http.Formatting.xml
+D:\MyBlog\MyBlog\bin\System.Web.Http.xml
+D:\MyBlog\MyBlog\bin\System.Web.Http.WebHost.xml
+D:\MyBlog\MyBlog\bin\System.Web.Helpers.xml
+D:\MyBlog\MyBlog\bin\System.Web.Mvc.xml
+D:\MyBlog\MyBlog\bin\System.Web.Optimization.xml
+D:\MyBlog\MyBlog\bin\System.Web.Razor.xml
+D:\MyBlog\MyBlog\bin\System.Web.WebPages.xml
+D:\MyBlog\MyBlog\bin\System.Web.WebPages.Deployment.xml
+D:\MyBlog\MyBlog\bin\System.Web.WebPages.Razor.xml
+D:\MyBlog\MyBlog\bin\Newtonsoft.Json.xml
+D:\MyBlog\MyBlog\bin\Antlr3.Runtime.pdb
+D:\MyBlog\MyBlog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyBlog\MyBlog\bin\System.ValueTuple.dll
+D:\MyBlog\MyBlog\bin\System.ValueTuple.xml
